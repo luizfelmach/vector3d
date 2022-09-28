@@ -1,8 +1,7 @@
-#include "../include/vector3d.hpp"
-
 #include <math.h>
 
 #include <iostream>
+#include <vector3d.hpp>
 
 using namespace std;
 
